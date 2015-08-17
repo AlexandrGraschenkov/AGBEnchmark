@@ -1,6 +1,6 @@
 #AGBenchmark
 
-This is simple library for benchmark your ObjC, Swift and C++ code. You can watch how much time your code is spend. Some times algorithms begin work longer during the time.
+This is simple library for benchmark your ObjC, Swift and C++ code. You can watch how much time your code is spend. Some times algorithms begin work longer during the time. `AGBenchmark` also records this information.
 
 For check how long the part of your code is executed, simple call:
 
@@ -46,6 +46,6 @@ Alexandr Graschenkov: alexandr.graschenkov91@gmail.com
 
 ## License
 
-MagicPie is available under the MIT license.
+AGBenchmark is available under the MIT license.
 
 Copyright © 2015 Alexandr Graschenkov.
