@@ -11,4 +11,5 @@ Pod::Spec.new do |s|
   s.source_files  = 'AGBenchmark/**/*.{h,m,mm}'
   s.requires_arc  = true
   s.framework     = "Foundation"
+  s.library = 'c++'
 end
